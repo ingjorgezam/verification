@@ -1,0 +1,7 @@
+node_modules
+files
+.env
+*.log
+*.txt
+.nvmrc
+text.js
